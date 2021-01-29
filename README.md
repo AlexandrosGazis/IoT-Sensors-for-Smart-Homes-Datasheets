@@ -1,4 +1,4 @@
-# IoT-Sensors-for-Smart-Homes-Datasheet
+# IoT-Sensors-for-Smart-Homes-Datasheets
 
 >A. Gazis, E. Katsiri, “Different Types of IoT Sensors for Smart Homes: A short review of low-cost and low-power solutions”, _International Journal on Engineering Technologies and Informatics (IJETI)_, Skeena Publishers, vol. 2 (2), February, 2021
 
