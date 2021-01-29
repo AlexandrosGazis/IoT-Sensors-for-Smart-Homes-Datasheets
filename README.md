@@ -3,7 +3,7 @@
 >A. Gazis, E. Katsiri, “Different Types of IoT Sensors for Smart Homes: A short review of low-cost and low-power solutions”, _International Journal on Engineering Technologies and Informatics (IJETI)_, Skeena Publishers, vol. 2 (2), February, 2021
 
 
-**Overview:** This repository contains the pdf files of sensors' datasheets and product manuals that are discussed in our publications at the International Journal on Engineering Technologies and Informatics (IJETI), Skeena Publishers, USA.
+**Overview:** This repository contains the pdf files of sensors' datasheets and product manuals that are discussed in our publications at the _International Journal on Engineering Technologies and Informatics (IJETI)_, Skeena Publishers, USA.
 
 The purpose of this repository is to help readers find all the necessary information regarding the sensors discussed in our publication:
 
