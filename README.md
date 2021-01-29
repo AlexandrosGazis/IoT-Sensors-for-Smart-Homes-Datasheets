@@ -5,9 +5,9 @@
 
 **Overview:** This repository contains the pdf files of sensors' datasheets and product manuals that are discussed in our publications at the _International Journal on Engineering Technologies and Informatics (IJETI)_, Skeena Publishers, USA.
 
-The purpose of this repository is to help readers find all the necessary information regarding the sensors discussed in our publication:
+The purpose of this repository is to help readers find all the necessary information regarding the sensors discussed in our publication.
 
- 
+
  **Sensor Datasheets:** 
 1.	HC-SR04. 
 
@@ -82,3 +82,10 @@ The purpose of this repository is to help readers find all the necessary informa
 
 
     https://www.arduino.cc/en/uploads/Main/TemperatureSensor.pdf 
+    
+    
+    <br/>
+    
+
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ 
