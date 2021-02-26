@@ -2,7 +2,7 @@
 
 ### Cite: 
 >Gazis A., Katsiri E., "Smart Home IoT Sensors: Principles and Applications - A Review of Low-Cost and Low-Power Solutions", _International Journal on
-Engineering Technologies and Informatics (IJETI)_, vol. 2, issue 1, pp. 19‒22, February 2021, DOI: 10.51626/ijeti.2021.02.00007,
+Engineering Technologies and Informatics (IJETI)_, vol. 2, issue 1, pp. 19‒23, February 2021, DOI: 10.51626/ijeti.2021.02.00007,
 available at: https://skeenapublishers.com/journal/ijeti/IJETI-02-00007.pdf .
 
 
